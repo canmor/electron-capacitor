@@ -1,0 +1,16 @@
+{
+  "name": "electron-capacitor",
+  "version": "1.0.1",
+  "description": "Electron App Store",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "store",
+    "capacitor"
+  ],
+  "author": "Canmor Lam",
+  "license": "Apache License"
+}
